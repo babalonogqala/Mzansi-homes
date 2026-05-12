@@ -1,0 +1,17 @@
+/*
+Theme Name: Mzansi Homes
+Theme URI: https://mzansihomes.co.za
+Author: Babalo Nogqala
+Author URI: https://github.com/babalonogqala
+Description: A premium South African real estate listing theme with custom property post types, agent profiles, advanced search, and blog. Built for Mzansi Homes.
+Version: 1.0.0
+Requires at least: 6.0
+Tested up to: 6.7
+Requires PHP: 8.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: mzansi-homes
+Tags: real-estate, listings, custom-post-type, south-africa, responsive
+*/
+
+/* This file is intentionally minimal — all styles live in css/main.css */
